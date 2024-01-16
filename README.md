@@ -1,5 +1,5 @@
 # pyiron dynamic 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jan-janssen/pyiron-dynamic-executable/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pyiron-dev/pyiron-dynamic-executable/error?labpath=example.ipynb)
 
 The job class `MydynamicJob` is defined based on the files in the directory `pyiron/resources/dynamic/MydynamicJob`. The directory contains: 
 
